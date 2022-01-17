@@ -1,0 +1,301 @@
+RN,trend,multi_trend_ind,location,listed_or_searched ,extent,species_common,species_sci,comment,completed
+1912,unclear,0,Norway,2,1,brown trout,Salmo trutta,area described as Norgewian which could be matched to country,mgs
+1197,varied,1,NA,NA,NA,NA,"Sorex araneus, Sorex caecutiens, Sorex minutus, Sorex minutissimus, Sorex isodon, Sorex tundrensis, Sorex roboratus, Sorex daphaenodon, Neomys fodiens","area undescribed, extent probably regional but not specified",mgs
+3497,decrease,1,Seychelles,1,1,NA,"Lutjanus bohar, Variola louti, Lethrinus nebulosus, Epinephelus multinotatus, Epinephelus polyphekadion",based on captures per unit effords in fisheries,mgs
+544,varied,0,NA,NA,3,Pacific walrus,Odobenus rosmarus divergens,Bering sea,mgs
+3256,decrease,0,"United States of America, Canada",2,1,Lake Erie water snake,Nerodia sipedon insularum,"Canada and USA are the countries bordering (owning?) lake Erie, the study site",mgs
+4062,unclear,0,Canada,1,1,killer whale,NA,"Canada listed as part of something else, so in reality it may be better to consider it was searched rather than stated",mgs
+3040,decrease,0,NA,NA,1,Nassau grouper,Epinephelus striatus,Caymen islands not listed as a country,tfj
+3958,unclear,0,Chile,1,2,Chilean jack mackerel,Trachurus murphyi,Chilean,mgs
+2398,stable,0,France,2,1,Bearded Vultures,Gypaetus barbatus,Corsica,mgs
+2489,varied,0,"Denmark, Norway, Sweden",2,3,pine marten,Martes martes,countries inferred from common meaning of Scandinavia,mgs
+1468,unclear,1,Denmark,2,2,"lesser sandeel, common guillemot, black-legged kittiwake, European shag ","Ammodytes marinus, Uria aalge, Rissa tridactyla, Phalacrocorax aristotelis",Danish,mgs
+374,decrease,0,Mongolia,1,1,Mongolian saiga,Saiga borealis mongolica,decrease in range and presumably abundance but not very clearly stated,mgs
+2771,varied,1,France,2,1,"Northern Gannet, Atlantic Puffin, Manx Shearwater","Morus bassanus, Fratercula arctica, Puffinus puffinus","discussion section mentions decline of puffins, which is why I scored this as varied, but the text probably provides data only on gannet",mgs
+4485,unclear,1,Costa Rica,1,1,NA,NA,"Eleutherodactylus brandsfordii  listed as species but name not regconized in EoL, although genus is there",mgs
+2727,decrease,0,United States of America,2,2,longnose skate,Raja rhina,"fishing, catch data, would suggest increases. NE Pacific Ocean as the study area, US mentioned and inferred the data focused on that area, but with oceans there are international waters so a bit confusing",mgs
+4167,varied,1,Mozambique,1,1,"reef manta ray, giant manta ray, whale shark Rhincodon typus","Manta alfredi, Mobula birostris, Rhincodon typus",From EoL the scientific name is for the coastal manta ray while reef manta ray is Mobula alfredi,mgs
+4520,varied,1,Australia,1,1,"central netted dragon, military dragon","Ctenophorus nuchalis, ctenophorus isolepis",genus name needs to be inferred in second species ,mgs
+4431,varied,1,NA,NA,1,"brown skua, south polar skua","Stercorarius maccormicki, Stercorarius antarcticus","getting common names required logic/inference. Stercorarius lonnbergi is unresolved name, common name matched the one listed. South Orkneys claimed by both UK and Argentina, not clearly assigned to one country",mgs
+2726,unclear,NA,Mexico,1,1,"Atlantic bluefin tuna, Yellowfin tuna, Swordfish",,Gulf of Mexico…,tfj
+3035,varied,1,Haiti,1,1,NA,NA,"Haiti is for some reason not listed in the country list, under any form I could fin",mgs
+3947,increase,1,Argentina,1,1,South American sea lion,otaria flavescens,"issue with text, species name missing letters with a ? symbol instead",mgs
+4173,decrease,1,Venezuela,1,2,NA,"Prionace glauca, Carcharhinus signatus, carcharhinus falciformis, Sphyrna mokarran, Isurus oxyrinchus",Isurus oxyrinchus mispelled in the abstract ,mgs
+3130,unclear,1,Italy,2,1,rock ptarmigan,NA,"listed as italian, assuming the algorithm can use that to infer country",mgs
+3097,decrease,0,"Suriname, France, Guyana",2,3,Semipalmated sandpiper,Calidris pusilla,"listing French guiana that is France,",mgs
+536,decrease,0,North atlantic,1,3,Humpback whales,Megaptera novaeangliae,Location is the ocean,tfj
+4615,varied,1,France,2,1,NA,NA,"lots of errors, odd symbols in the abstract",mgs
+1345,decrease,0,Italy,1,1,Italian roe deer,Capreolus capreolus italicus,"maybe trend should be varied as it talks about post-crash, suggesting there was some recovery",mgs
+2983,decrease,0,France,2,1,turtle-headed sea snake,Emydocephalus annulatus,New Caledonia,mgs
+3942,varied,1,Ecuador,1,1,NA,"Priodontes maximus, Dasypus novemcinctus, Pecari tajacu, Dasyprocta fuliginosa",no common names,tfj
+2495,increase,0,Western alps,1,3,Wolves,Canis lupus,No country to list,tfj
+2418,increase,0,Alps,NA,3,Bearded vultures,Gypaetus barbatus,No country to list,tfj
+36,decrease,0,NA,NA,NA,Mongolian gazelle,,No location available,tfj
+2719,unclear,NA,NA,NA,NA,Huemel deer,Hippocamelus bisulcus,no location or trend information available,tfj
+1517,increase,0,NA,NA,3,Humpback whale,Megaptera novaeangliae,north Atlantic ocean,mgs
+4144,unclear,1,NA,NA,3,NA,"Isurus oxyrinchus, Prionace glauca, Alopias superciliosus, Alopias vulpinus, Sphyrna zygaena, Xiphias gladius",North Atlantic Ocean and Mediterranean Sea,mgs
+4480,increase,0,NA,NA,3,starry ray,Raja asterias,Northern and Central Adriatic Sea,mgs
+2105,varied,0,NA,NA,3,Pacific saury,Cololabis saira,northwestern Pacific,mgs
+3310,varied,1,Canada,1,1,lodgepole pine,"Pinus contorta, Peromyscus maniculatus, Tamias amoenus, Myodes gapperi, Sorex monticolus, Sorex cinereus, Microtus pennsylvanicus, Microtus longicaudus,  Phenacomys intermedius","not sure whether this should be unclear or varied, Are these pop trends?",mgs
+3109,unclear,1,Canada,2,1,"California Gull, Glaucouswinged Gull, Cassin's Auklet, Common Murres, Sabine's Gull, Sooty Shearwater, Pink-footed Shearwater, Northern Fulmar","Larus californicus, Larus glaucescens, Ptychoramphus aleuticus, Uria aalge, Xema sabini, Ardenna grisea, Puffinus creatopus, Fulmarus glacialis","note error in scientific name Ptychoramphusa leuticus, a goes with aleuticus not the genus name. Puffinus creatopus is an unresolved name",mgs
+1416,varied,1,NA,NA,3,cownose ray,NA,"Oceans cannot be listed as countries, how to handle?",mgs
+143,unclear,0,India,2,1,lion-tailed macaque,Macaca silenus,"Only 3 populations with viable status listed, could suggest many declining and some okay?",mgs
+3833,varied,0,NA,NA,3,"Yellow-breasted Bunting, Passenger Pigeon","Emberiza aureola, Ectopistes migratorius",pigeon mentioned as part of discussion,mgs
+2384,unclear,0,NA,NA,3,harbour porpoises,Phocoena phocoena,"Seas, mentioned German and Danish water",mgs
+1709,decrease,1,Australia,1,2,NA,NA,shorebirds,mgs
+2347,varied,0,India,2,1,dark-bellied bonnet macaque,Macaca radiata radiata,text says indian,mgs
+2522,increase,0,Austria,1,2,White-tailed Eagle,NA,"there is an increases in nesting pairs but several threats mentioned later, maybe this could be trend=unclear",mgs
+1735,varied,0,Tanzania,2,1,"wildebeest, lion","Connochaetes taurinus, Panthera leo, Crocuta crocuta",unclear if serengeti refers only to the NP in Tanzania (assumed for the data entry) or includes the wider ecosystem also encompassing Kenya,mgs
+2235,varied,1,France,searched,regional,"Blue-winged Teal, Lesser Scaup, Ring-necked Duck, Eastern Imperial Eagle, Lanner Falcon, Saker Falcon, Purple Swamp-hen, Great Bustard, Black-winged Pratincole, Great Sand Plover, Sociable Lapwing, Purple Sandpiper, Buff-breasted Sandpiper, Wilson's Phalarope, Audouin's Gull, Arctic Tern, Common Guillemot, Blue-cheeked Bea-eater, Horned Lark, Richard's Pipit, Blyth's Pipit, Isabelline Wheatear, Desert Wheatear, Paddyfield Warbler, Marsh Warbler, Barred Warbler, Yellow-browed Warbler, Red-breasted Flycatcher, European Nuthatch, Rosy Starling, Snowfinch, Trumpeter Finch, Lapland Longspur, Little Egret, Cattle Egret, Night Heron, Squacco Heron, Grey Heron, Purple Heron, Greater Flamingo, Black-headed Gull, Mediterranean Gull, Slender-billed Gull, Yellow-legged Gull, Great Cormorant, Great White Egret, Eurasian Spoonbill, Eagle Owl, Pied Wagtail, Collared Pratincole, Great Spotted Cuckoo, Black Stork, White Stork, Black Kite, Osprey, Common Crane, Stone-curlew, Little Ringed Plover, Common Tern, Pine Bunting.",NA,,jm
+3111,varied,1,Hungary,listed,national,"Tundra Bean Goose, Greater White-fronted Goose, Lesser White-fronted Goose, Greylag Goose",NA,,jm
+4106,decrease,1,NA,NA,international,"western lowland gorillas, central chimpanzees","Gorilla gorilla, Pan troglodytes",,jm
+1930,unclear,0,United States of America,searched,regional,Common Snapping Turtle,Chelydra serpentina,,jm
+1337,increase,0,Portugal,listed,national,ibex,Capra pyrenaica,,jm
+3608,varied,1,Brazil,searched,regional,NA,"Serrasalmus marginatus, Serrasalmus spilopleura",,jm
+2016,unclear,0,Seychelles,listed,national,Seychelles magpie robin,Copsychus sechellarum,,jm
+1586,unclear,0,NA,NA,NA,vole,NA,,jm
+683,unclear,0,Canada,searched,regional,snow geese,Chen caerulescens,,jm
+2635,unclear,1,United States of America,searched,regional,"Galapagos shark, sandbar shark, tiger shark,","Carcharhinus galapagensis, Carcharhinus plumbeus, Galeocerdo cuvier",,jm
+3785,decrease,0,Iran,listed,national,Great Bustard,Otis tarda,,jm
+3720,increase,0,Canada,searched,regional,Lesser Snow Geese,Chen caerulescens,,jm
+4014,unclear,1,Mexico,listed,regional,"Snowy egret, Reddish egret",Egretta thula,,jm
+1364,unclear,0,Australia,searched,regional,Koala,NA,,jm
+2930,decrease,0,France,listed,regional,Roe deer,Capreolus capreolus,,jm
+3049,unclear,1,United States of America,searched,regional,"Kemp's ridley, Loggerhead turtle, Green turtle","Lepidochelys kempii, Caretta caretta, Chelonia mydas",,jm
+2119,varied,1,Portugal,searched,regional,NA,"Pomatoschistus minutus, Pomatoschistus microps",,jm
+1370,varied,1,United Kingdom,searched,regional,"hen harrier, peregrine falcon, red grouse",NA,,jm
+1908,unclear,1,New Zealand,listed,regional,"Pacific rats, Duvaucel's geckos","Rattus exulans, Hoplodactylus duvaucelii",,jm
+3993,varied,1,United States of America,,regional,"Mariana Crowand, Rota Bridled White-eye ","Corvus kubaryi, Zosterops rotensis",,jm
+4622,unclear,1,NA,NA,NA,NA,"Trichopodus pectoralis, Clarias macrocephalus, Channa striata",,jm
+1408,unclear,1,France,listed,regional,"Eurasian bittern, mosquitofish, carp, red swamp crayfish","Botaurus stellaris, Gambusia affinis, Cyprinus carpio, Procambarus clarkii",,jm
+2623,unclear,0,NA,NA,international,Turnstone,NA,,jm
+3704,decline,0,Canada,listed,regional,basking sharks,Cetorhinus maximus,,jm
+3419,unclear,1,NA,NA,international,"northern gannets, mackerel","Morus bassanus, Scomber scombrus",,jm
+3076,varied,1,Australia,listed,regional,"shorebirds, terns",NA,,jm
+2349,decrease,0,Finland,listed,regional,NA,NA,,jm
+2044,unclear,1,NA,NA,NA,"Arctic foxes, geese, collared lemming","Vulpes lagopus, Dicrostonyx groenlandicus",,jm
+2987,increase,0,Philippines,listed,regional,planktivorous reef fish,Naso vlamingii,,jm
+3232,unclear,0,Canada,listed,regional, leatherback sea turtle,Dermochelys coriacea,,jm
+3262,unclear,1,Canada,listed,regional,"deer mouse, montane vole, house mice, wandering shrews","Peromyscus maniculatus, Microtus montanus, Mus musculus, Sorex vagrans",,jm
+1375,decrease,0,Niger,listed,regional,red-necked ostrich,Struthio camelus,,jm
+3696,unclear,0,Gabon,listed,regional,"sea turtle, olive ridley turtle",Lepidochelys olivacea,,jm
+3165,varied,1,"United Kingdom, Ireland",searched,international,Bewick's Swan,Cygnus columbianus,,jm
+1003,decrease,0,Finland,listed,national,white-backed woodpecker,Dendrocopos leucotos,,jm
+4059,varied,1,Canada,searched,regional,"common eider, arctic terns","Somateria mollissima, Sterna paradisaea",,jm
+3438,varied,1,Canada,listed,regional,"Dry douglas-fir, southern red-backed vole, deer mouse, meadow vole, northwestern chipmunk","Pseudotsuga menziesii, Myodes gapperi, Peromyscus maniculatus, Microtus pennsylvanicus, Tamias amoenus",,jm
+760,unclear,1,Canada,searched,regional,"Gray wolves, Elk","Canis lupus, Cervus elaphus",,jm
+3988,decrease,1,United States of America,searched,regional,Marbled Murrelet,Brachyramphus marmoratus,,jm
+3654,varied,1,Australia,listed,regional,"cane toads, death adder, Children's python","Rhinella marina, Acanthophis praelongus, Antaresia childreni",,jm
+1356,unclear,0,Chile,listed,regional,longhaired field mouse,Abrothrix longipilis,,jm
+1469,decrease,1,Germany,searched,regional,"herring gulls, great black-backed gulls","Larus argentatus, Larus marinus",,jm
+4447,unclear,0,South Korea,listed,regional,minke whale,Balaenoptera acutorostrata,,jm
+4337,varied,1,Turkey,listed,national,Dalmatian Pelican,Pelecanus crispus,,jm
+1294,unclear,1,"United Kingdom, Sweden",searched,international,common toad,Bufo bufo,,jm
+3281,varied,1,"Denmark, Greenland, Canada, Russia, Norway",searched,international,Eurasian Oystercatcher,Haematopus ostralegus,,jm
+2609,increase,0,Argentina,searched,regional,Gentoo Penguin,Pygoscelis papua,,jm
+3801,increase,0,NA,NA,NA,black rhinoceros,NA,,jm
+3185,unclear,0,Canada,listed,regional,eastern red-backed salamanders,NA,,jm
+1349,varied,0,Chile,listed,regional,Vicugna,Vicugna vicugna,,jm
+2079,decrease,0,Portugal,searched,regional,sperm whale,Physeter macrocephalus,,jm
+4471,decrease,1,South Africa,listed,regional,NA,NA,,jm
+2337,stable,0,Madagascar,listed,regional,gray-headed lemurs,Eulemur cinereiceps,,jm
+2037,decrease,0,South Africa,listed,regional,Cape Gannets,Morus capensis,,jm
+2075,decrease,0,United States of America,searched,regional,Cassin's auklet,Ptychoramphus aleuticus,,jm
+2057,unclear,1,United States of America,searched,regional,Kemp's ridley,Lepidochelys kempii,,jm
+1084,increase,0,United States of America,searched,regional,green sea turtle,NA,,jm
+1282,decrease,0,Myanmar,listed,regional,roofed turtle,Batagur trivittata,,jm
+2254,stable,0,United States of America,searched,regional,Yellow-billed Loon,Gavia adamsii,,jm
+545,decrease,0,Ecuador,listed,regional,sperm whales,Physeter macrocephalus,,jm
+2545,decrease,0,NA,NA,regional,short-beaked common dolphin ,NA,,jm
+2128,varied,1,France,listed,regional,NA,NA,,jm
+4018,increase,1,Mexico,listed,regional,spiny pocket mouse,Heteromys pictus,,jm
+89,increase,0,United Kingdom,searched,regional,redshank,Tringa totanus,,jm
+4347,varied,1,France,listed,national,"Grey Heron, Purple Heron, Black-crowned Night Heron, Squacco Heron, Cattle Egret, Little Egret, Great White Egret",NA,,jm
+1456,decrease,0,"France, Spain",listed,regional,Lesser grey shrike,Lanius minor,,jm
+2807,increase,1,Kenya,listed,regional,common hippopotamus,Hippopotamus amphibius,,jm
+2063,unclear,0,NA,NA,NA,Swift Parrot,Lathamus discolor,,jm
+2357,increase,0,United States Virgin Islands,listed,regional,leatherback turtle,Dermochelys coriacea,,jm
+1732,unclear,0,South Africa,listed,regional,elephants,Loxodonta africana,,jm
+3056,decrease,0,United States of America,searched,regional,Spotted Turtle,Clemmys guttata,,jm
+726,varied,1,Canada,listed,national,Peregrine Falcon,Falco peregrinus,,jm
+4612,decrease,1,Australia,listed,regional,NA,NA,,jm
+591,decrease,0,United States of America,searched,regional,box turtles,Terrapene carolina,,jm
+3294,unclear,1,Canada,listed,regional,"mudpuppy, mudpuppy mussel","Necturus maculosus, Simpsonaias ambigua",,jm
+3380,unclear,0,"Canada, United States of America",listed,regional,white sturgeon,Acipenser transmontanus,,jm
+3159,varied,1,"Netherlands, Denmark",listed,national,"Bewick's Swan, Pink-footed Goose, Barnacle Goose, Red Knot, Great White Egret, Mute Swan, Great Cormorant, Tundra Bean Goose, Greater-White-fronted Goose, Dark-bellied Brent Goose, Mallard, Taiga Bean Goose, Common Pochard, Greater Scaup, Smew, Goosander, Common Eider, Common Scoter, Ruff, Kentish Plover,  Greater Canada Goose, Egyptian Goose",NA,,jm
+3078,unclear,1,France,listed,regional,Red Knot,Calidris canutus,,jm
+1393,increase,0,"Canada, United States of America",listed,regional,wolves,Canis lupus,,jm
+2846,stable,0,United States of America,searched,regional,cougar,NA,,jm
+4111,varied,1,Tanzania,listed,regional,"Udzungwa red colobus, Cercopithecus",NA,,jm
+4028,varied,1,Costa Rica,listed,regional,"lowland paca, Central American agouti, nine-banded armadillo",NA,,jm
+3225,decrease,0,"Suriname, Guyana, Brazil, United States of America, Argentina",searched,internaional,Red Knots,NA,,jm
+892,unclear,0,Mexico,searched,regional,peninsular pronghorn,Antilocapra americana,,jm
+2557,increase,1,Spain,listed,regional,Pyrenean chamois,Rupicapra pyrenaica,,jm
+1881,stable,0,Jersey,listed,regional,red squirrels,Sciurus vulgaris,,jm
+3086,decrease,1,Russia,listed,regional,Spoon-billed Sandpiper,Eurynorhynchus pygmeus,,jm
+1948,unclear,0,United States of America,searched,regional,salamanders,NA,,jm
+3967,decrease,0,Puerto Rico,listed,regional,winter-resident bird,NA,,jm
+4113,unclear,1,Peru,listed,regional,Pristimantis frogs,NA,,jm
+3943,decrease,0,Argentina,searched,regional,rainbow trout,Oncorhynchus mykiss,,jm
+3103,unclear,0,Germany,searched,regional,Dotterel,NA,,jm
+2650,stable,0,Nepal,listed,regional,Tigers,Panthera tigris,,jm
+1357,unclear,0,New Zealand,listed,regional,Robins,Petroica australis,,jm
+3691,decrease,0,United States of America,searched,regional,beavers,Castor canadensis,,jm
+1742,decrease,1,Canada,searched,regional,green sturgeon,Acipenser medirostris,,jm
+1744,decrease,1,China,listed,regional,"Amur sturgeon, Acipenserschrenckii, Chinese paddlefish, Dabry's sturgeon","Psephurus gladius, Acipenser dabryanus, Acipenser sinensis",,jm
+3369,decrease,1,Canada,searched,regional,"marten, snowshoe hare","Martes americana, Lepus americanus",,jm
+4269,unclear,0,Spain,searched,regional,spur-thighed tortoise,Testudo graeca,,jm
+1570,varied,1,Mexico,listed,regional,NA,NA,,jm
+2722,unclear,0,"Sweden, Norway",1,3,wolverine,Gulo gulo,,mgs
+668,unclear,0,Panama,1,2,NA,Anolis limifrons,,mgs
+1933,unclear,1,United States of America,1,2,NA,NA,,mgs
+3939,unclear,1,Brazil,1,2,"codling, hake, monkfish","Urophycis mystacea, Merluccius hubbsi, Lophius gastrophysus",,mgs
+1247,varied,1,Falkland Islands,1,2,"gentoo penguin, rockhopper penguin,king penguin",NA,,mgs
+4110,varied,0,NA,NA,NA,wood mice,Apodemus sylvaticus,,mgs
+4162,unclear,0,Italy,2,1,pelagic stingray,Pteroplatytrygon violacea,,mgs
+2585,unclear,NA,NA,NA,NA,emperor penguin,NA,,mgs
+4132,unclear,NA,Brazil,1,1,Ocelot,Leopardus pardalis,,mgs
+1388,unclear,NA,Canada,1,1,"capelin, Common Murres, Atlantic cod","Mallotus villosus, Uria aalge, Gadus morhua",,mgs
+1905,varied,0,Botswana,1,2,elephant,Loxodonta africana,,mgs
+3786,decrease,0,South Africa,1,1,Nile crocodile,Crocodylus niloticus,,mgs
+2856,varied,1,Egypt,2,1,NA,"Lethrinus obsoletus, Cephalopholis argu, Variola louti, Epinephelus fasciatus, Lethrinus nebulosus, Monotaxis grandoculis",,mgs
+1461,decrease,0,United States of America,2,1,Diamondback terrapin,Malaclemys terrapin,,mgs
+1526,decrease,0,NA,NA,3,sperm whale,Physeter macrocephalus,,mgs
+3692,varied,0,Canada,1,1, Bald Eagles,Haliaeetus leucocephalus,,mgs
+3916,varied,0,United States of America,2,1,brown trout,NA,,mgs
+3504,varied,1,NA,NA,NA,NA,NA,,mgs
+2150,unclear,1,United States of America,2,1," smooth flounder,winter flounder","Pleuronectes putnami, Pleuronectes americanus",,mgs
+3814,decrease,1,Saint Kitts and Nevis,2,1,vervet monkey,"Noctilio leporinus, Artibeus jamaicensis, Molossus molossus, Tadarida brasiliensis, Monophyllus plethodon, Ardops nichollsi,  Brachyphylla cavernarum, Cercopithecus sabaeus",,mgs
+2838,increase,0,Canada,2,1, sea otter,NA,,mgs
+2107,varied,0,Ghana,2,1,Ursine colobus,Colobus vellerosus,,mgs
+660,decrease,0,Canada,1,1,black rat snake,Elaphe obsoleta,,mgs
+1919,varied,1,Israel,1,1,NA,"Gazella gazella, Gazella dorcas",,mgs
+1765,decrease,0,NA,NA,NA,"Leon Springs pupfish, Pecos gambusia","Cyprinodon bovinus, Gambusia nobilis",,mgs
+1729,unclear,0,NA,NA,NA,Loggerhead Seaturtle, Caretta caretta,,mgs
+4205,increase,0,South Africa,1,1,Nile crocodile,Crocodylus niloticus,,mgs
+2519,unclear,0,Slovakia,1,1,White-tailed Eagle,NA,,mgs
+3642,unclear,1,South Africa,2,1,"Twee River redfin, Twee River galaxias",Barbus erubescens,,mgs
+1400,unclear,1,South Africa,1,1,"impala, zebra, wildebeest,  waterbuck",NA,,mgs
+1674,varied,1,British Virgin Islands,1,2,"leatherback turtle,  green turtle, hawksbill turtle","Dermochelys coriacea, Chelonia mydas, Eretmochelys imbricata",,mgs
+1374,unclear,1,Tanzania,1,1,"lion, feline herpesvirus, feline immunodeficiency virus, feline calicivirus, feline parvovirus, feline coronavirus, canine distemper virus,feline leukaemia virus",Panthera leo,,mgs
+1678,varied,1,United States of America,2,1,"wolf, elk, bighorn sheep, bison, moose, mule deer, pronghorn, coyote","Canis lupus, Cervus elaphus, Ovis canadensis, Bison bison, Alces alces, Odocoileus hemionus, Antilocapra americana",,mgs
+4610,varied,1,Turkey,1,2,gibel carp,Carassius gibelio,,mgs
+3615,unclear,0,Brazil,2,1,NA,Brycon hilarii,,mgs
+2994,varied,1,Antarctica,1,2,"Adelie penguin, chinstrap penguin, and gentoo penguin",NA,,mgs
+1265,varied,1,United Kingdom,1,2,"ruddy duck, white-headed duck","Oxyura jamaicensis, Oxyura leucocephala",,mgs
+2976,decrease,0,Indonesia,1,1,leatherback turtle,NA,,mgs
+4190,unclear,0,Australia,1,1,white shark,Carcharodon carcharias,,mgs
+3110,varied,1,United Kingdom; Ireland,1,3,"Barnacle Goose, Pink-footed Goose, Greylag Goose, Light-bellied Brent Goose, Taiga  Bean Goose, Icelandic Greylag Goose, European White-fronted Goose, Dark-bellied Brent Goose (82,970), Greenland Whitefronted Goose",NA,,mgs
+4346,increase,0,Morocco,2,1,Black-necked Grebe,Podiceps nigricollis ,,mgs
+3522,decrease,0,United States of America,2,1,Queenfish,Seriphus politus,,mgs
+2592,unclear,1,South Africa,2,1,"macaroni penguin, eastern rockhopper","Eudyptes chrysolophus, Eudyptes chrysocome filholi",,mgs
+93,varied,0,United Kingdom,1,2,bitterns,Botaurus stellaris,,mgs
+3981,unclear,NA,Panama,1,1,NA,NA,,mgs
+850,varied,1,Canada,2,1,"mink, snowshoe hare","Lepus americanus, Mustela frenata, Mustela erminea, Mustela vison, Mephitis mephitis, Tamiasciurus hudsonicus, Glaucomys sabrinus, Spermophilus franklinii, Erethizon dorsatum",,mgs
+4489,unclear,0,Colombia,1,1,NA,Rhinella macrorhina,,mgs
+2436,decrease,0,Sweden,1,1,muskox,Ovibos moschatus,,mgs
+1571,unclear,0,Netherlands,2,1,harbour seal,NA,,mgs
+1551,varied,0,Japan,1,1,loggerhead turtle,Caretta caretta,,mgs
+2362,unclear,0,United States of America,2,1,NA,"Clemmys guttata, Chrysemys picta",,mgs
+4461,varied,0,Netherlands,1,2,Burbot,Lota lota,,mgs
+2346,decrease,0,India,2,1,rhesus,NA,,mgs
+4358,increase,0,Spain,1,1,white stork,Ciconia ciconia,,mgs
+1344,increase,0,Nepal,1,1,wild buffalo,Bubalus arnee,,mgs
+4335,varied,1,Greece,1,1,"badgers, avocets","Testudo hermanni, Meles meles, Recurvirostra avosetta",,mgs
+1763,decrease,0,NA,NA,NA,hellbender,"Cryptobranchus alleganiensis, Cryptobranchus alleganiensis alleganiensis, Cryptobranchus alleganiensis bishopi",,mgs
+3386,unclear,0,Canada,1,1,"red squirrel, lodgepole pine","Tamiasciurus hudsonicus, Pinus contorta",,mgs
+3938,unclear,0,Brazil,1,1,ocelot,Leopardus pardalis,,mgs
+4630,varied,0,United States of America,2,1,Ozark cavefish,"Amblyopsis rosae, Typhlichthys subterraneus",,mgs
+3027,decrease,0,The Bahamas,1,1,bottlenose dolphins,Tursiops truncatus,,mgs
+2599,stable,1,Antarctica,2,1,"Adelie penguins, Chinstrap, macaroni penguins, King penguin"," Pygoscelis adeliae, Eudyptes chrysolophus, Aptenodytes patagonicus",,tfj
+1720,decrease,0,Spain,1,1,European eel,Anguilla anguilla,,tfj
+4035,varied,0,United States of America,2,1,"Pronghorn, Coyote",Antilocapra americana,,tfj
+2610,increase,0,Antarctica,2,1,King penguins,Aptenodytes patagonicus,,tfj
+2011,decrease,1,Guam,1,1,brown tree snakes,Boiga irregularis,,tfj
+3324,unclear,NA,Canada,1,1,"eastern coyotes, white-tailed deer, snowshoe hares","Canis latrans, Odocoileus virginianus",,tfj
+2462,varied,1,Belarus,1,1,"Wolf, Roe deer, Moose, Wild boar","Canis lupus, Capreolus capreolus, Alces alces, Sus scrofa",,tfj
+3827,decrease,1,Bolivia,1,1,NA,Cavia aperea,,tfj
+2767,increase,0,Norway,1,2,"red deer, moose","Cervus elaphus, Alces alces",,tfj
+1667,increase,0,United States of America,2,1,Green turtles,Chelonia mydas,,tfj
+4330,varied,1,Portugal,1,1,Golden-striped salamander,Chioglossa lusitanica,,tfj
+2499,increase,0,France,1,1,White stock,Ciconia ciconia,,tfj
+1584,varied,1,NA,NA,NA,NA,"Clethrionomys glareolus, Microtus agrestis, Apodemus flavicollis",,tfj
+832,varied,1,Japan,1,1,Red-backed vole,Clethrionomys rufocanus,,tfj
+990,varied,1,Seychelles,1,1,"Seychelles Magpie Robin,Indian Mynah","Copsychus sechellarum, Acridotheres tristis",,tfj
+3937,varied,1,Singapore,1,2,"House crow, Javan Myna","Corvus splendens, Acridotheres javanicus, Eudynamys scolopacea, Acridotheres tristis",,tfj
+4032,varied,1,"Chile, Argentina",1,1,Mistletoe,"Dromiciops gliroides, Tristerix corymbosus",,tfj
+4385,varied,1,Spain,1,2,Little egrets,Egretta garzetta,,tfj
+1954,unclear,NA,Puerto Rico,1,1,Puerto Rican terrestrial frog,Eleutherodactylus coqui,,tfj
+3609,unclear,NA,NA,NA,NA,Black surfperch,Embiotoca jacksoni,,tfj
+2974,varied,1,Papua New Guinea,1,1,"Brown-marbled grouper, Camouflage grouper, Squaretail coralgrouper","Epinephelus fuscoguttatus, Epinephelus polyphekadion, Plectropomus areolatus",,tfj
+3050,unclear,1,Indonesia,1,1,NA,"Epinephelus fuscoguttatus, Plectropomus areolatus",,tfj
+2315,varied,1,Malawi,1,1,"Zebra, Eland","Equus burchelli, Taurotragus oryx",,tfj
+2813,varied,1,Antigua and Barbuda,1,1,Hawksbill sea turtle,Eretmochelys imbricata,,tfj
+2095,increase,0,Russia,1,1,gray whales,Eschrichtius robustus,,tfj
+918,unclear,NA,NA,NA,NA,North Pacific gray whale,Eschrichtius robustus,,tfj
+4526,increase,0,Brazil,1,1,Southern right whales,Eubalaena australis,,tfj
+1338,decrease,0,United States of America,2,1,Stellar sea lions,Eumetopias jubatus,,tfj
+1981,unclear,0,United States of America,2,1,Blunt-Nosed Leopard Lizard,Gambelia sila,,tfj
+2369,unclear,NA,Spain,1,1,Common crane,"Grus grus, Zea mays",,tfj
+3075,decrease,0,United States of America,2,1,Stream salamander,Gyrinophilus porphyriticus,,tfj
+2209,increase,0,Bulgaria,1,2,White-tailed Eagle,Haliaeetus albicilla,,tfj
+4148,unclear,NA,Pacific ocean,NA,3,NA,"Katsuwonus pelamis, Xiphias gladius, Istiophorus albicans, Prionace glauca, Alopias superciliosus, Isurus oxyrinchus, Carcharhinus longimanus, Galeocerdo cuvier",,tfj
+1983,decrease,0,United States of America,1,1,Eastern kingsnakes,"Lampropeltis getula, ",,tfj
+4359,increase,0,France,2,1,Yellow-legged gull,Larus michahellis,,tfj
+4618,varied,1,Kuwait,1,1,NA,"Leiognathus decorus, Liza carinata, Terapon puta, Solea elongata",,tfj
+2863,varied,1,New Zealand,1,1,NA,Leiopelma pakeka,,tfj
+1887,unclear,0,Netherlands,1,1,black-tailed godwit,Limosa limosa,,tfj
+3525,unclear,NA,Belize,1,1,Cubera snapper,Lutjanus cyanopterus,,tfj
+1334,decrease,0,Morocco,1,1,Barbary macaque,Macaca sylvanus,,tfj
+4424,increase,0,Antarctic,1,1,Southern giant petrel,Macronectes giganteus,,tfj
+3066,unclear,NA,United States of America,2,1,diamondback terrapins,Malaclemys terrapin,,tfj
+4500,increase,0,Brazil,1,2,Black caiman,Melanosuchus niger,,tfj
+4311,decrease,0,Spain,2,1,Bearded reedling,NA,,tfj
+1937,increase,0,Kenya,1,1,Black rhino,NA,,tfj
+2106,unclear,NA,South Africa,2,1,black rhinoceros,NA,,tfj
+3465,stable,0,Australia,2,1,Dugong,NA,,tfj
+3747,varied,1,"Antarctica, Argentina",1,1,"Gentoo penguins, Imperial cormorants, dolphin gulls, kelp gulls, rock cormorant, Rochopper penguins, Magellanic penguins",NA,,tfj
+2972,decrease,0,Indonesia,1,1,Leatherback,NA,,tfj
+852,unclear,1,NA,NA,NA,"Microtine rodents, Snowshoe hares",NA,,tfj
+3478,unclear,NA,Argentina,1,1,NA,NA,,tfj
+1610,decrease,1,Australia,1,1,NA,NA,,tfj
+3726,varied,1,Canada,2,1,NA,NA,,tfj
+1564,stable,1,Costa Rica,1,1,NA,NA,,tfj
+4249,decrease,1,"Guatemala, Mexico",1,1,NA,NA,,tfj
+4247,varied,1,Malaysia,2,1,NA,NA,,tfj
+4605,varied,1,Puerto Rico,1,1,NA,NA,,tfj
+2770,unclear,NA,Scotland,2,1,NA,NA,,tfj
+3208,varied,1,Japan,1,2,NA,NA,,tfj
+4397,unclear,1,Turkey,1,2,NA,NA,,tfj
+2098,decrease,0,NA,NA,NA,NA,NA,,tfj
+1780,unclear,NA,NA,NA,NA,NA,NA,,tfj
+2550,unclear,NA,NA,NA,NA,NA,NA,,tfj
+3488,unclear,NA,NA,NA,NA,NA,NA,,tfj
+2024,decrease,0,Costa Rica,1,1,Olive ridley sea turtle,NA,,tfj
+2142,increase,1,United States of America,2,1,"Striped bas, American shad",NA,,tfj
+4191,increase,0,Seychelles,1,1,Whale shark,NA,,tfj
+3266,varied,1,Denmark,2,1,"Wigeon, Gadwall, Shoveler",NA,,tfj
+2072,stable,1,United States of America,2,1,yellow-bellied marmot,NA,,tfj
+1378,varied,2,Oman,1,2,Arabian oryx,Oryx leucoryx,,tfj
+172,varied,1,Turkey,1,1,White-headed duck,Oxyura leucocephala,,tfj
+2834,increase,1,South Africa,1,1,"Lion, African wild dog, Spotted hyena, Leopard, Cheetah","Panthera leo, Lycaon pictus, Crocuta crocuta, Panthera pardus, Acinonyx jubatus",,tfj
+3819,unclear,NA,Brazil,2,1,"Jaguar, Tiger, Lion",Panthera onca,,tfj
+1647,unclear,1,NA,NA,NA,"Great tit, Blue tit, Collared flycatcher","Parus major, Cyanistes caeruleus, Ficedula albicollis",,tfj
+4243,unclear,1,Germany,1,1,"sea lamprey, river lamprey","Petromyzon marinus,Lampetra fluviatilis",,tfj
+2622,unclear,0,New Zealand,1,1,north island saddleback,Philesturnus carunculatus rufusater,,tfj
+2799,increase,1,"Netherlands, Denmark",1,3,Harbour seals,Phoca vitulina,,tfj
+908,unclear,1,Chile,1,2,NA,"Phyllotis darwini, Abrothrix olivaceus, Thylamys elegans",,tfj
+2848,increase,0,Peru,1,1,Giant otter,Pteronura brasiliensis,,tfj
+1246,varied,1,Antarctica,1,1,Adelie penguins,Pygoscelis adeliae,,tfj
+2791,varied,1,China,1,1,Hainan Eld's deer,Rucervus duvaucelii,,tfj
+1626,varied,1,United Kingdom,1,1,"Salmon, Brown trout, Sea trout","Salmo salar, Salmo trutta",,tfj
+4564,unclear,0,United Kingdom,2,1,"Atlantic salmon, Brown trout, European grayling","Salmo salar, Salmo trutta, Thymallus thymallus",,tfj
+4521,stable,0,United States of America,2,1,NA,Sceloporus scalaris,,tfj
+510,decrease,0,United Kingdom,2,1,"Arctic skua, Great skua",Stercorarius parasiticus,,tfj
+2795,decrease,1,Chile,1,1,"Common sardine, anchovy","Strangomera bentincki, Engraulis ringens",,tfj
+1900,unclear,NA,United Kingdom,2,NA,common guillemots,Uria aalge,,tfj
+2643,varied,1,Europe,1,3,Grey seal,,,tfj
+2720,decrease,1,Chile,2,1,"juan fernandez firecrown, juan fernandez tit-tyrant, green-backed firecrown, austral thrush",,,tfj
+853,decrease,0,Canada,2,1,Semipalmated Sandpipers,,,tfj
+3997,vareid,1,India,2,1,"Tiger, Jungle cat, Leopard cat, Rusty-spotted cat, Small indian civet, Common palm civet, Brown palm civet, Stripe-necked mongoose, Ruddy mongoose, Indian grey mongoose",,,tfj
+2510,increase,0,Poland,1,1,Wolf,NA,,tfj

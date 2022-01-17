@@ -1,0 +1,65 @@
+Automated synthesis of biodiversity knowledge requires better tools and standardised research output
+
+
+This directory contains the code and data needed to reproduce the analyses found in the above titled paper.
+
+The geog_taxon_text_mining directory contains the code and data needed to reproduce our automated extraction of Latin binomials and studied countries, using taxize and CLIFF-CLAVIN, respectively, in addition to the subsequent accuracy and bias analyses.
+This part of the analysis used Python 2.7 and R 3.2.4.
+Note: A .txt copy of the 2017 Catalogue of Life is also required for script 02. (see Roskov et al, 2017).
+
+
+The trend_text_mining directory contains the code and data to reproduce our automated trend categorisation, using machine-learning text-classifiers, and subsequent analyses.
+This part of the analysis used Python 3.7 and R 3.5.1.
+The necessary Python 3 environment is contained within py3_env.yml and can be created and activated using the following bash commands (run from within the trend_text_mining directory):
+"$ conda env create -f py3_env.yml", then
+"$ source activate py3_env" or "$ conda activate py3_env"
+To check the environment installed successfully use "conda list", which should list installed libraries/modules.
+Note: Our neural network models are built around Google's universal sentence encoder, which should be downloaded from: https://tfhub.dev/google/universal-sentence-encoder-large/5
+
+
+/geog_taxon_text_mining
+	/R
+	Here, are the R code files needed to scrape taxonomic names from abstracts and perform subsequent analysis for both taxonomic and geographic extraction.
+	Scripts 01. to 04.x should be run in order.
+	Scripts 05.x should be run after running the python CLIFF-CLAVIN code.
+
+	/python
+	This directory contains the Python script to set up and run the CLIFF-CLAVIN geoparser.
+
+	/data
+	Input data used by the above scripts is stored here, and includes LPD texts (lpi_texts...), LPD data on taxonomy and geographic location (lpi_pops...), manual assessments of taxonomy and geographic location (compiled_trends...) and Catalogue of Life taxonomy (taxa.zip, unique_COL...).
+
+	/outputs
+	This contains the output files of the above code, including the automatically extracted information and figures used in our manuscript (taxa_300.pdf, geography_300.pdf).
+
+
+/trend_text_mining
+	py3_env.yml
+
+	/Code
+	Running the code in order (01 -- 09) will recreate our automated trend prediction approach, from categorising LPD time-series into paper-level trends (01), through exploring different text-classification models (02 -- 07, rf refers to random forests, and nn to neural networks), to predicting trend categories for the 300 MLD texts (08) and analysing these results (09).
+
+	/Data
+	Input data used by the above code files.
+	
+
+	/Results
+		Outputs from the analysis of our text-classifiers and Figures used in our manuscript.
+		Sub-directories are named based on the code file used to generate them.
+		
+		/rf_init
+		Initial random forest model results.
+
+		/nn_init
+		Initial neural network model results.
+
+		/rfnn_se
+		Results from exploring the impacts of reducing within-paper trend variation on classifier performance.
+
+		/rf_aug
+		/nn_aug
+		Results from exploring the impacts of text augmentation for random forest and neural network classifiers.
+
+		/Figs
+		Contains figures used in our main manuscript (chord_diag_sub1) and the supporting information.
+
